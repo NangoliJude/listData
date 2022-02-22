@@ -7,6 +7,10 @@
     "First-Blog-Post": {
       "title": "Second Blog Post",
      "description": "Hello React Router v6"
+    },
+    "Drone-Blog-Post": {
+      "title": "Second Blog Post",
+     "description": "Hello React Router Drone"
     }
   }
 }
