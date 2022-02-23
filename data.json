@@ -1,10 +1,10 @@
- {
-    'All-about-ND-Filters-For-Drones-and-Cameras': {
-      'title': 'All about ND Filters For Drones and Cameras.',
-      'description': 'Lorem ipsum dolor sit amet, consectetur adip.'
-    },
-    'First-Blog-Post': {
-      'title': 'Second Blog Post',
-      'description': 'Hello React Router v6'
-    }
-  }
+{
+   "All-about-ND-Filters-For-Drones-and-Cameras": {
+      "title": "All about ND Filters For Drones and Cameras.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adip."
+   },
+   "First-Blog-Post": {
+      "title": "Second Blog Post",
+      "description": "Hello React Router v6"
+   }
+}
