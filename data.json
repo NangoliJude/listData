@@ -1,9 +1,9 @@
 {
-    'All-about-ND-Filters-For-Drones-and-Cameras': {
-      "title": 'All about ND Filters For Drones and Cameras.',
-     "description": '<h1>Lorem ipsum dolor sit amet, consectetur adip.<a href="https://www.healthline.com/nutrition/gluten-sensitivity-is-real#gluten-sensitivity">UgandanBoy</a></h1>'
+    "All-about-ND-Filters-For-Drones-and-Cameras": {
+      "title": "All about ND Filters For Drones and Cameras.",
+     "description": "<h1>Lorem ipsum dolor sit amet, consectetur adip.<a href="https://www.healthline.com/nutrition/gluten-sensitivity-is-real#gluten-sensitivity">UgandanBoy</a></h1>"
     },
-    'First-Blog-Post': {
-      "title": 'Second Blog Post',
+    "First-Blog-Post": {
+      "title": "Second Blog Post",
       "description": 'Hello React Router v6 <img style={{ width: "20px"}} src="https://images.unsplash.com/photo-1593096198791-d29492bff417?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"/>'
     }
