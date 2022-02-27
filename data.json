@@ -1,8 +1,8 @@
 [
   {
-    'All-about-ND': {
-      "title": 'All about ND Filters For Drones and Cameras.',
-      "description": 'Lorem ipsum dolor sit amet, consectetur adip.',
+    "All-about-ND": {
+      "title": "All about ND Filters For Drones and Cameras.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adip.",
       "category": "Technology",
       "cover": "https://s.aolcdn.com/images/dims?client=fh7w6q744eiognjk&signature=d59d0cf6af1d779a3dca451e0ba259c33bbc6115&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fos%2Fab%2F_cms%2F2019%2F08%2F30142658%2F2020-jeep-wrangler-16.jpg&thumbnail=750%2C422&quality=80",
       "authorImage": Jude,
@@ -18,9 +18,9 @@
 
 
     },
-    'First-Blog-Post': {
-     "title": 'All about ND Filters For Drones and Cameras.',
-      "description": 'Lorem ipsum dolor sit amet, consectetur adip.',
+    "First-Blog-Post": {
+     "title": "All about ND Filters For Drones and Cameras.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adip.",
       "category": "Technology",
       "cover": "https://s.aolcdn.com/images/dims?client=fh7w6q744eiognjk&signature=d59d0cf6af1d779a3dca451e0ba259c33bbc6115&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fos%2Fab%2F_cms%2F2019%2F08%2F30142658%2F2020-jeep-wrangler-16.jpg&thumbnail=750%2C422&quality=80",
       "authorImage": Jude,
@@ -34,9 +34,9 @@
       "advert": "",
       "color": "pink"
     },
-    'First-Blog-Test': {
-      "title": 'All about ND Filters For Drones and Cameras.',
-       "description": 'Lorem ipsum dolor sit amet, consectetur adip.',
+    "First-Blog-Test": {
+      "title": "All about ND Filters For Drones and Cameras.",
+       "description": "Lorem ipsum dolor sit amet, consectetur adip.",
        "category": "Technology",
        "cover": "https://s.aolcdn.com/images/dims?client=fh7w6q744eiognjk&signature=d59d0cf6af1d779a3dca451e0ba259c33bbc6115&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fos%2Fab%2F_cms%2F2019%2F08%2F30142658%2F2020-jeep-wrangler-16.jpg&thumbnail=750%2C422&quality=80",
        "authorImage": Jude,
@@ -50,9 +50,9 @@
        "advert": "",
        "color": "brown"
      },
-     'First-Blog': {
-      "title": 'All about ND Filters For Drones and Cameras.',
-       "description": 'Lorem ipsum dolor sit amet, consectetur adip.',
+     "First-Blog": {
+      "title": "All about ND Filters For Drones and Cameras.",
+       "description": "Lorem ipsum dolor sit amet, consectetur adip.",
        "category": "Technology",
        "cover": "https://s.aolcdn.com/images/dims?client=fh7w6q744eiognjk&signature=d59d0cf6af1d779a3dca451e0ba259c33bbc6115&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fos%2Fab%2F_cms%2F2019%2F08%2F30142658%2F2020-jeep-wrangler-16.jpg&thumbnail=750%2C422&quality=80",
        "authorImage": Jude,
