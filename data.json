@@ -8,7 +8,7 @@
          "authorImage":"Jude",
          "authorName":"Nangoli Jude",
          "date":"2/14/2022",
-         "summary":  "* I’ve been building things using computers since the [age of 12](/blog/qnote)",
+         "summary":  "",
          "color":"red"
       },
       "panning-angle":{
@@ -19,7 +19,7 @@
          "authorImage":"Jude",
          "authorName":"Nangoli Jude",
          "date":"2/14/2022",
-        "summary":  "* I’ve been building things using computers since the [age of 12](/blog/qnote)",
+        "summary":  "Test",
          "color":"red"
       }
    }
