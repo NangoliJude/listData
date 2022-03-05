@@ -8,7 +8,7 @@
          "authorImage":"Jude",
          "authorName":"Nangoli Jude",
          "date":"2/14/2022",
-         "summary":  [],
+         "summary": "https://raw.githubusercontent.com/NangoliJude/posts/main/post.md",
          "color":"red"
       },
       "panning-angle":{
@@ -19,7 +19,7 @@
          "authorImage":"Jude",
          "authorName":"Nangoli Jude",
          "date":"2/14/2022",
-        "summary":  [],
+        "summary": "https://raw.githubusercontent.com/NangoliJude/posts/main/post.md",
          "color":"red"
       }
    }
