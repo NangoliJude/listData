@@ -1,9 +1,7 @@
 {
   "data": 
     {
-
-
-       "All-about-ND": {
+      "which-nd-filter-to-use": {
       "title": "All about ND Filters For Drones and Cameras.",
       "description": "Lorem ipsum dolor sit amet, consectetur adip.",
       "category": "Technology",
@@ -11,30 +9,20 @@
       "authorImage": "Jude",
       "authorName": "Nangoli Jude",
       "date": "2/14/2022",
-      "paraOne": "Test Para",
-      "paraTwo": "",
-      "paraThree": "",
-     "videoLink": " ",
-      "color": "red",
+      "summary": [],
+      "color": "red"
+      },
       
-
-
-    },
-    "First-Blog-Post": {
-     "title": "All about ND Filters For Drones and Cameras.",
+    "panning-angle": {
+     "title": "about panning angle",
       "description": "Lorem ipsum dolor sit amet, consectetur adip.",
-      "category": "Technology",
+      "category": "Camera",
       "cover": "https://s.aolcdn.com/images/dims?client=fh7w6q744eiognjk&signature=d59d0cf6af1d779a3dca451e0ba259c33bbc6115&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fos%2Fab%2F_cms%2F2019%2F08%2F30142658%2F2020-jeep-wrangler-16.jpg&thumbnail=750%2C422&quality=80",
       "authorImage": "Jude",
       "authorName": "Nangoli Jude",
       "date": "2/14/2022",
-      "paraOne": " ",
-      "paraTwo": "",
-      "paraThree": "",
-      "videoLink": " ",
-      "color": "pink"
-    },
-   
-
+      "summary": [],
+      "color": "red",
+    }
   }
 }
