@@ -15,7 +15,7 @@
       "paraTwo": "",
       "paraThree": "",
       "videoLink": " ",
-      "related Article": [
+      "relatedArticle": [
     "* I’ve been building things using computers since the [age of 12](/blog/qnote)",
     "* I had an app that got [10k downloads](/blog/photosec) on Windows Phone Store when I was 16",
     "* I do programming [livestreams](https://www.youtube.com/watch?v=WfyQF2xyAHE&list=PLNkfllcUq3AkdeD4Aqp_Z2AIGyyF00_d8&index=124) on Twitch",
@@ -57,7 +57,7 @@
        "paraTwo": "",
        "paraThree": "",
        "videoLink": " ",
-       "related Article": "",
+       "relatedArticle": "",
        "advert": "",
        "color": "brown"
      },
@@ -73,7 +73,7 @@
        "paraTwo": "",
        "paraThree": "",
        "videoLink": " ",
-       "related Article": "",
+       "relatedArticle": "",
        "advert": "",
        "color": "brown"
      }
