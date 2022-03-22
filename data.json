@@ -2,8 +2,8 @@
   {
       "id": "1",
       "website": "Harrison County Iowa",
-      "websiteLink": "https://harrisoncounty.iowa.gov/employment/",
-      "selector": "section strong"
+      "websiteLink":"https://harrisoncounty.iowa.gov/employment/",
+      "selector":"section strong"
      },
    {
     "id": "2",
@@ -13,9 +13,9 @@
      },
    {
     "id": "3",
-    "website": "Cedar County Test",
+    "website":"Cedar County Test",
     "websiteLink": "https://cedarcounty.iowa.gov/employment/",
-    "selector": "div h3 a",
+    "selector":"div h3 a",
      }
 
 ]
