@@ -1,32 +1,32 @@
 [
-  {
-    id: 1,
-    website: 'Harrison County Iowa',
-    websiteLink: "https://harrisoncounty.iowa.gov/employment/",
-    selector: 'section strong',
-  },
-  {
-    id: 2,
-    website: 'Cedar County Iowa',
-    websiteLink: "https://cedarcounty.iowa.gov/employment/",
-    selector: 'div h3 a',
-  },
-  {
-    id: 3,
-    website: 'Clay County Iowa',
-    websiteLink: "https://claycounty.iowa.gov/jobs/",
-    selector: 'section strong',
-  },
-  {
-    id: 4,
-    website: 'Henry County Iowa',
-    websiteLink: "https://henrycounty.iowa.gov/job/",
-    selector: 'section strong',
-  },
-  {
-    id: 5,
-    website: 'bremercounty County Iowa',
-    websiteLink: "https://www.bremercounty.iowa.gov/departments/human_resources/employment_opportunities.php",
-    selector: 'div .header strong ',
-  },
+   {
+      "id": 1,
+      "website": "Harrison County Iowa",
+      "websiteLink": "https://harrisoncounty.iowa.gov/employment/",
+      "selector": "section strong"
+   },
+   {
+      "id": 2,
+      "website": "Cedar County Iowa",
+      "websiteLink": "https://cedarcounty.iowa.gov/employment/",
+      "selector": "div h3 a"
+   },
+   {
+      "id": 3,
+      "website": "Clay County Iowa",
+      "websiteLink": "https://claycounty.iowa.gov/jobs/",
+      "selector": "section strong"
+   },
+   {
+      "id": 4,
+      "website": "Henry County Iowa",
+      "websiteLink": "https://henrycounty.iowa.gov/job/",
+      "selector": "section strong"
+   },
+   {
+      "id": 5,
+      "website": "bremercounty County Iowa",
+      "websiteLink": "https://www.bremercounty.iowa.gov/departments/human_resources/employment_opportunities.php",
+      "selector": "div .header strong "
+   }
 ]
