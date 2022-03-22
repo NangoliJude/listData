@@ -1,5 +1,5 @@
-{
-  "data":{
+[
+  {
      "Harrison County Iowa":{
       "id": "1",
       "website": "Harrison County Iowa",
@@ -13,5 +13,4 @@
       "selector": "section strong"
      }
 
-    }
-  }
+]
