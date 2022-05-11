@@ -1,21 +1,28 @@
-[
-  {
-      "id": "1",
-      "website": "Harrison County Iowa",
-      "websiteLink":"https://harrisoncounty.iowa.gov/employment/",
-      "selector":"section strong"
-     },
-   {
-    "id": "2",
-    "website": "Cedar County Iowa",
-    "websiteLink": "https://cedarcounty.iowa.gov/employment/",
-    "selector": "div",
-     },
-   {
-    "id": "3",
-    "website":"Cedar County Test",
-    "websiteLink": "https://cedarcounty.iowa.gov/employment/",
-    "selector":"div",
-     }
-
-]
+{
+   "data":{
+      "variable-nd-filters":{
+         "title":"what are variable nd filters",
+         "description":"Variable ND filters are circular, and simply rotate them to change the intensity of the shading effect",
+         "category":"ND Filters",
+         "cover":"https://raw.githubusercontent.com/NangoliJude/entypo-icons/master/packages/entypo-icons-core/src/svgs/aircraft-landing.svg",
+         "authorImage":"Jud",
+         "authorName":"CineShot Team",
+         "date":"4/6/2022",
+         "summary": "https://raw.githubusercontent.com/NangoliJude/posts/main/Judder.md",
+         "color":"red"
+      },
+      "filters":{
+         "title":"what are variable nd filters",
+         "description":"Variable ND filters are circular, and simply rotate them to change the intensity of the shading effect",
+         "category":"ND Filters",
+         "cover":"https://raw.githubusercontent.com/NangoliJude/entypo-icons/master/packages/entypo-icons-core/src/svgs/aircraft-landing.svg",
+         "authorImage":"Jud",
+         "authorName":"CineShot Team",
+         "date":"4/6/2022",
+         "summary": "https://raw.githubusercontent.com/NangoliJude/posts/main/variable-Filters.md",
+         "color":"red"
+      }
+     
+     
+   }
+}
